@@ -1,0 +1,5 @@
+phonenumbers
+web-browser
+exifread
+requests
+googlesearch-python
